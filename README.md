@@ -2,6 +2,8 @@
 
 **Live Cross-Chain Dashboard**
 
+> 🌐 **This page now lives on in [hcn-network-dashboard](https://github.com/xrplove/hcn-network-dashboard)**, with live, read-only XRP Ledger data: https://xrplove.github.io/hcn-network-dashboard/ (this original version is at [/classic/](https://xrplove.github.io/hcn-network-dashboard/classic/)). This repo is kept as it was.
+
 ## Overview
 
 HCN is a real-time monitoring and coordination network for cross-chain infrastructure, built on the XRP Ledger ecosystem.
