@@ -35,3 +35,5 @@ Contributors welcome! Please fork and submit pull requests.
 ---
 
 Built with ❤️ by Guardian Protectors (@xrplove)
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
